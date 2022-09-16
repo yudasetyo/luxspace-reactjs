@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="flex text-center px-4 py-8 justify-center">
+    <footer className="flex justify-center px-4 py-8 text-center">
       <p className="text-sm">
-        Copyright 2021 • All Rights Reserved LuxSpace by BuildWith Angga
+        Copyright 2022 • All Rights Reserved LuxSpace by Yuda Setyo Hidayat
       </p>
     </footer>
   );
